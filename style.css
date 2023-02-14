@@ -32,6 +32,10 @@ section::before {
   box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.25);
 }
 
+.home {
+  padding-top: 50px;
+}
+
 .home h1 {
   font-size: 72px;
 }
